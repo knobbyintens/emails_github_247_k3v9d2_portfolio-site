@@ -10,7 +10,7 @@ status: Published
 slidesurl: https://victoriaramos.dev/files/slides-graphcast.pdf
 paperurl: https://victoriaramos.dev/papers/2024-08-20-graphcast-lite-weather.pdf
 bibtexurl: https://victoriaramos.dev/files/bibtex-graphcast.bib
-codeurl: https://github.com/aditwhorra42/graphcast-lite
+codeurl: https://github.com/knobbyintens/emails_github_247_k3v9d2_graphcast-lite
 citation: 'Victoria Ramos, Daniel Okafor (2024). "GraphCast-Lite: A Lightweight Graph Neural Model for Global Weather Forecasting." <i>KDD 2024</i>.'
 ---
 

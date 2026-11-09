@@ -10,6 +10,7 @@ status: Accepted
 slidesurl: https://victoriaramos.dev/files/slides-sphereflow.pdf
 paperurl: https://victoriaramos.dev/papers/2025-06-12-sphereflow-scene-generation.pdf
 bibtexurl: https://victoriaramos.dev/files/bibtex-sphereflow.bib
+codeurl: https://github.com/knobbyintens/emails_github_247_k3v9d2_sphereflow
 citation: 'Victoria Ramos, Wei Zhang, Daniel Okafor (2025). "SphereFlow: Flow-Matching for 3D Scene Generation." <i>NeurIPS 2025</i>.'
 ---
 

@@ -10,6 +10,7 @@ status: Accepted
 slidesurl: https://victoriaramos.dev/files/slides-tidalmesh.pdf
 paperurl: https://victoriaramos.dev/papers/2025-10-02-tidalmesh-ocean-forecasting.pdf
 bibtexurl: https://victoriaramos.dev/files/bibtex-tidalmesh.bib
+codeurl: https://github.com/knobbyintens/emails_github_247_k3v9d2_tidalmesh
 citation: 'Victoria Ramos, Priya Raman, Sofia Alvarez (2025). "TidalMesh: Adaptive Mesh Transformers for Ocean Forecasting." <i>ICLR 2026</i>.'
 ---
 
